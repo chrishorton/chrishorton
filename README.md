@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **Protobufs, Docker, Google Cloud, and Openlayers**
 
-- 📝 I regularly write articles on [chrishorton.github.io](http://chrishorton.github.io)
+- 📝 I write articles on [chrishorton.github.io](http://chrishorton.github.io)
 
 - 📫 How to reach me **hortonchristopher27@gmail.com**
